@@ -11,3 +11,6 @@
 ###### H6 Header
 
 Foram adicionados 6 tipos de Headers na página.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
