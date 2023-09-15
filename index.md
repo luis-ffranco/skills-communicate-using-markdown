@@ -21,3 +21,7 @@ curl -sSL https://install.pi-hole.net | bash
 ```
 
 Continuação do teste
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
