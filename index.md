@@ -12,5 +12,12 @@
 
 Foram adicionados 6 tipos de Headers na página.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)<br />
+*Microsoft*
 
+Exemplo de amostra de código
+```bash
+curl -sSL https://install.pi-hole.net | bash
+```
+
+Continuação do teste
